@@ -2,9 +2,10 @@
   "name": "@mjtdev/sqlites",
   "version": "1.0.0",
   "description": "Sqlite / SQLCipher wrapper library",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "tsc"
   },
   "keywords": [
     "sqlite",

@@ -1,4 +1,5 @@
 lib
+dist
 
 ._.DS_Store
 src/html/images/
