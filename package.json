@@ -10,6 +10,7 @@
     "sqlite",
     "sqlcipher"
   ],
+  "type": "module",
   "author": "@mjtdev",
   "license": "MIT",
   "devDependencies": {
